@@ -1,6 +1,6 @@
 # Franz Plugins Freshdesk
 
-[1Live](http://www.freshdesk.com/) Freshdesk for Franz
+[freshdesk](http://www.freshdesk.com/) Freshdesk for Franz
 
 The minimum requirement to run a custom Franz integration is Franz v. 4.0.0. To get the latest version visit [meetfranz.com](http://meetfranz.com)
 
